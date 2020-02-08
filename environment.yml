@@ -1,4 +1,4 @@
-name: tf2
+name: handson-ml2_env
 channels:
   - conda-forge
   - defaults
